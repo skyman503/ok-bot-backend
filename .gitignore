@@ -2,3 +2,9 @@
 db.sqlite3
 .__pycache__
 .venv
+venv
+media/*
+!media/default
+djnagoProject/__pycache__
+restApi/__pycache__
+static
